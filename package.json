@@ -1,0 +1,10 @@
+{
+  "name": "airpair-offers",
+  "description": "Retweets all offer from @airpair official account",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "",
+  "dependencies": {
+    "twit": "^1.1.20"
+  }
+}
